@@ -9,4 +9,4 @@ def display_board(board)
     #{board[6]}  |  #{board[7]} |  #{board[8]}  "
 end
 
-display_board(board=[" O ", " ", " ", " ", " ", " ", " ", " ", " "])
+display_board(board=[" O ", " ", " ", " ", " X ", " ", " ", " ", " "])
